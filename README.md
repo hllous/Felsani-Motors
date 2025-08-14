@@ -3,8 +3,8 @@
 ### Felsani Motors
 
 ### Integrantes:
-- Iriarte, Facundo (1157051)
-- Abrego, Lautaro ()
+- Iriarte, Facundo (LU: 1157051) https://github.com/FacuIria
+- Abrego, Lautaro (LU: 1152414) https://github.com/SirCaballero
 - Padilla, Esteban Facundo Guzman ()
-- Peralta, Santiago Tomas (1155874)
-- Llousas, Nicolas Facundo (1147795)
+- Peralta, Santiago Tomas (LU: 1155874) https://github.com/SantiPeralta1
+- Llousas, Nicolas Facundo (LU: 1147795) (owner)
